@@ -45,6 +45,8 @@ that you think we might have while testing your work.
   of the webpage. From here you can hover to the manga to get a synosis of the manga,
   click the manga or right click it to be sent to the mangadex webpage of the manga/get the link,
   or again input another manga to start the process over.
+  
+  Here is a video on how Osusume works: https://youtu.be/wFnnr7CejQM
 
 - Other important information
   As we understand, the API that we use is actually not the official mangadex api.
