@@ -15,14 +15,15 @@ that you think we might have while testing your work.
   Osusume was written in the VSCode text editor, we used JavaScript
   HTML, and CSS to create the whole app.
   Modules used include: express, mangadex-full-api, node.js, npm,
-  http-server, nodemon, eslint, stylelint, and @linthtml.
+  http-server, nodemon, eslint, stylelint, @linthtml, and git for windows/gitbash to 
+  run the terminal in VSCode.
 
   To start the webapp, open a terminal in vscode with a path to the osusume folder,
   when in the terminal make sure all the modules are installed, (you may
   have to install node.js and npm with their installers on their respective
   webpages).
 
-  Install the modules with this syntax in the terminal npm install [module].
+  Install the modules as shown above with this syntax in the terminal npm install [module].
   Once everything is installed, in the terminal type in nodemon app.js to start the webpage.
   From here open your browser and in the browser web address bar type in localhost:8080/osusume.html
   The webapp should now be functional.
