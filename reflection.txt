@@ -1,0 +1,30 @@
+What did you learn during this project?
+
+  We learned many aspects of JavaScript, HTML, and CSS.
+  None of us were overly familiar with web development but we decided that working with an API would be very rewarding.
+  In particular, we spent many many many hours researching how JSON objects worked, flexbox concepts, and general web development style.
+  Another thing that we came to quickly learn was that JavaScript is an asynchronous language.
+  Code ran simultaneously and we had to learn how to use async/await very quickly, in addition to that, promises, fetch, and ajax.
+
+What did you enjoy during this project?
+
+  Honestly, despite how long it would take, debugging an external API on our code was immensely satisfying.
+  Things would break and we would have no clue how or where to approach the issue and since we were working on a relativly unknown API we had to work our own solutions.
+  Bouncing ideas off of each other and testing them in real-time on VSCode Live Share allowed us to quickly iterate and improve our code.
+  In addition, just being able to work with others lightened the load off of each of our individual shoulders a lot. Creating a less stressful assignment.
+
+What did you find challenging or frustrating during this project?
+
+  Runtime and Fetch. This was the first time for many of us to work with networking and fetch programs.
+  We ran into many issues where we wouldn't be getting what we expected in the JSON file, or the JSON file was simply undefined.
+  Code ran before we finished our API calls or just simple things like our editor not catching us misspelling a JSON key leading to minutes of searching for the error.
+  Runtime was a real issue for us and even with the finished product, we believe it could be improved.
+  Originally we had a very disturbing runtime of almost 2+ minutes! We managed to bring it down to around 30 to 45
+  seconds.
+
+What did you find particularly helpful for your learning during this project?
+
+  This project showed us how important good documentation is in your code.
+  We would be in a significantly worse place if it weren't for the API being so carefully documented and explained on what each of its functions did.
+  Comments and design documents in the API's source code allowed us to understand what was happening when we interfaced with it and if we didn't understand
+  we could dig deeper to find a solution.

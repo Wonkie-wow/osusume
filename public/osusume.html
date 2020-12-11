@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+
+    <head>
+        <title>osusume</title>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <link rel="icon" href="logo_cropped.png" type="images/png">
+        <link rel="stylesheet" href="osusume.css">
+        <script src="osusume.js"></script>
+    </head>
+
+    <body>
+        <header>
+            <img src="logo_cropped.png" id="logo" alt="Osusume logo">
+            <h1>osusume</h1>
+            <blockquote>A manga recommendation app</blockquote>
+        </header>
+
+        <main>
+            <div id="overlay">
+                <h2 id="instruction">Click on the manga you had in mind</h2>
+                <div id="synopsis"><p id="synopsis_text"></p></div>
+                <div id="overlay_contents"></div>
+                <div id="loading">
+                    <img src="loading_screen.gif" id="loading_image" alt="loading animation">
+                    <p>Loading... This may take a while...</p>
+                </div>
+            </div>
+
+            <div id="user_input_block">
+                <input autocomplete="off" type="text" id="manga_input" placeholder="Submit a manga you like!"></input>
+                <button id="recommend_button" type="button" >Recommend me something!</button>
+                <p id="warning"></p>
+            </div>
+
+            <div id="recommendations"></div>
+        </main>
+
+        <footer>
+            <p>API provided by <a href="https://github.com/md-y/mangadex-full-api">Mangadex Full API</a></p>
+        </footer>
+    </body>
+
+</html>
